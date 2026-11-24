@@ -14,4 +14,4 @@ python3.13 main.py
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=waz5211&utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=5bnvgbf3&utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e) · AI agents build software for cash rewards</sub>
